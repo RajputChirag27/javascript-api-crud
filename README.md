@@ -33,7 +33,7 @@ After that we will create json file in our machine. In my case it is "db.json".
 When JSON server is installed run
 
 ```bash
- json-server — watch db.json 
+ json-server — watch db.json  #you can use your file name and do changes accordingly
  ```
 
  #### Note: Create db.json file in same directory as your project is in....
